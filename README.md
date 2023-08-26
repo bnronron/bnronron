@@ -1,8 +1,8 @@
 
-<h1 align="center">Nir Balouka</h1>
+<h1 align="center">Ron Benjamin </h1>
 <h3 align="center">Computer Science Student at The Hebrew University of Jerusalem</h3>
 <br>
-<h4 align="center"> 👨‍💻 All of my projects are available at https://nirblo50.github.io/Portfolio/ </h4>
+<h4 align="center"> 👨‍💻 All of my projects are available at https://bnronron.github.io/Portfolio/ </h4>
 
  
 
@@ -11,7 +11,7 @@
 <br>
 <h3 align="center">Connect with me on linkedin:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/nir-balouka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nir-balouka" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ron-benjamin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ron-Benjamin" height="30" width="40" /></a>
 </p>
 <br>
 
